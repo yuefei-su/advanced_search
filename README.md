@@ -1,10 +1,10 @@
 # advanced_search
 
-# 高级检索  
-https://github.com/search/advanced   
-https://help.github.com/en/github/searching-for-information-on-github/searching-for-repositories     
+## 高级检索网站  
+https://github.com/search/advanced       
+https://help.github.com/en/github/searching-for-information-on-github/searching-for-repositories        
 
-# 高级检索句式
+## 高级检索句式
 in:name example		名字中有“example”  
 in:readme example		readme中有“example”   
 in:description example	描述中有“example”   
